@@ -20,6 +20,6 @@ h1 {
 }
 
 .minhas-listas {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
